@@ -1,0 +1,97 @@
+body{
+	background:#2b1d3a;
+	font-family:ubuntu;
+}
+.nav-wrapper
+{
+	background:#607789;
+	font-weight:100;
+
+}
+.dropdown-content
+{
+top:46%;
+display: block;
+}
+.circle{
+
+	width:50px;
+	height:50px;
+}
+.background
+{
+	width:100%;
+	height:10%;
+}
+.bgm
+{
+	width:100%;
+	height:180%;
+}
+#slide-out
+{
+	color:#111;
+}
+.cards{
+
+
+}
+p
+{
+	position:absolute;
+	left:20%;
+	top:0%;
+	font-size:14px;
+}
+h4
+{
+	position:absolute;
+	left:45%;
+	top:20%;
+	font-size: 42px;
+font-weight:100;}
+.val{
+position:absolute;
+	left:30%;
+	top:27%;
+	font-size: 42px;
+font-weight:100;
+
+}
+.para{
+	position:absolute;
+	left:20%;
+	width:"100%"
+	top:0%;
+	font-size:13px;
+}
+.parac{
+	position:absolute;
+	left:20%;
+	width:"100%"
+	top:60%;
+	font-size:14px;
+}
+.valc
+{
+	position:absolute;
+	left:56%;
+	top:20%;
+	font-size: 42px;
+font-weight:100;
+}
+.radio
+{
+	left:"80%";
+	top:"30%";
+	background:#fff;
+}
+/*  */
+/* #myChart */
+/* { */
+	/* position:absolute; */
+	/* left:0%; */
+	/* width:100px; */
+	/* height:100px; */
+	/* top:0%; */
+/* } */
